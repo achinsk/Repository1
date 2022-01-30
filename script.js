@@ -5,4 +5,6 @@ console.log(div.textContent);
 console.log('commits');
 };
 
+
+console.log (456);
 // change
